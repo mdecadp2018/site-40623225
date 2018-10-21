@@ -125,7 +125,7 @@ Title: Week 1
 Date: 2018-09-29 11:00
 Category: Misc
 Tags: Week 1
-Slug: 2018-Fall-Project-Blog
+Slug: Week 1
 Author: NFUMDE
 ---
 
@@ -165,7 +165,7 @@ Title: Week 2
 Date: 2018-10-06 11:00
 Category: Misc
 Tags: Week 2
-Slug: 2018-Fall-Project-Blog
+Slug: Week 2
 Author: NFUMDE
 ---
 
@@ -205,7 +205,7 @@ Title: Week 3
 Date: 2018-10-13 11:00
 Category: Misc
 Tags: Week 3
-Slug: 2018-Fall-Project-Blog
+Slug: Week 3
 Author: NFUMDE
 ---
 
@@ -245,7 +245,7 @@ Title: Week 4
 Date: 2018-10-20 11:00
 Category: Misc
 Tags: Week 4
-Slug: 2018-Fall-Project-Blog
+Slug: Week 4
 Author: NFUMDE
 ---
 
@@ -285,7 +285,7 @@ Title: Week 5
 Date: 2018-10-27 11:00
 Category: Misc
 Tags: Week 5
-Slug: 2018-Fall-Project-Blog
+Slug: Week 5
 Author: NFUMDE
 ---
 
