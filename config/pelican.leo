@@ -80,11 +80,17 @@
 <v t="leo.20181021185038.1"><vh>Week 3</vh>
 <v t="leo.20181021185038.2"><vh>@edit Week 3.md</vh></v>
 </v>
-<v t="leo.20181021185052.1" a="E"><vh>Week 4</vh>
+<v t="leo.20181021185052.1"><vh>Week 4</vh>
 <v t="leo.20181021185052.2"><vh>@edit Week 4.md</vh></v>
 </v>
-<v t="leo.20181021185104.1" a="E"><vh>Week 5</vh>
+<v t="leo.20181021185104.1"><vh>Week 5</vh>
 <v t="leo.20181021185104.2"><vh>@edit Week 5.md</vh></v>
+</v>
+<v t="leo.20181028235356.1" a="E"><vh>Week 6</vh>
+<v t="leo.20181028235356.2"><vh>@edit Week 6.md</vh></v>
+</v>
+<v t="leo.20181028235551.1" a="E"><vh>Week 7</vh>
+<v t="leo.20181028235551.2"><vh>@edit Week 7.md</vh></v>
 </v>
 </v>
 </v>
@@ -123,6 +129,8 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20181021185038.1"></t>
 <t tx="leo.20181021185052.1"></t>
 <t tx="leo.20181021185104.1"></t>
+<t tx="leo.20181028235356.1"></t>
+<t tx="leo.20181028235551.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
