@@ -21,22 +21,46 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181108140150.1"><vh>各式內容引用範例</vh>
+<v t="leo.20181108140150.2" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181108140150.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20181108140150.4" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20181108140150.5"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
+<v t="leo.20181108140150.6" a="E"><vh>導入影片</vh>
+<v t="leo.20181108140150.7"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
+<v t="leo.20180827201621.11"><vh>Week 1</vh>
+<v t="leo.20180827201621.12"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108135549.1"><vh>Week 2</vh>
+<v t="leo.20181108135549.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108140155.1"><vh>Week 3</vh>
+<v t="leo.20181108140155.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108140255.1"><vh>Week 4</vh>
+<v t="leo.20181108140255.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108140720.1"><vh>Week 5</vh>
+<v t="leo.20181108140720.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108141448.1"><vh>Week 6</vh>
+<v t="leo.20181108141448.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108141640.1"><vh>Week 7</vh>
+<v t="leo.20181108141640.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108141902.1"><vh>Week 8</vh>
+<v t="leo.20181108141902.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108142011.1" a="E"><vh>Week 9</vh>
+<v t="leo.20181108142011.2"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -145,92 +169,12 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12"># Week 1
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* 建立一個新倉儲(學號.github.io),從https://github.com/mdecourse 中clone 2018fall,在將自己的github.io clone下來,將2018fall資料夾複製裡面的檔案,除了.git和README.me都貼到自己的資料夾,再利用git add . , git commit -m "名稱" , git push完成推送的動作。
 
-</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
+* 開啟python wsgi.py,進入近端(localhost:8443),更改標題名稱40623225 
 
-</t>
-<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -326,5 +270,222 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181108135549.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108135549.2"># Week 2
+
+* 進到mde.tw &gt; i &gt;week2&gt;領取個人倉儲 (在mdecadp2018下的site-40623225)
+* 在site-40623225的 settings &gt; Branches &gt; 將branches改為gh-pages
+* 開始試著練習OnShape ，更新網站內容
+
+</t>
+<t tx="leo.20181108140150.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108140150.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108140150.3"># 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+</t>
+<t tx="leo.20181108140150.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108140150.5">## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+@language python
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+</t>
+<t tx="leo.20181108140150.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108140150.7">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181108140155.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108140155.2"># Week 3
+
+* 中秋節放假!!
+
+</t>
+<t tx="leo.20181108140255.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108140255.2"># Week 4 Onshape 基本用法
+
+* extrude--拉伸
+* revolve--旋轉
+* symmetric--對稱
+* pattern--陣列
+* loft--斷面混層
+* sweep--掃掠
+* shell--薄殼
+
+</t>
+<t tx="leo.20181108140720.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108140720.2"># Week 5 Onshape 繪製
+
+* 簡介"設計意圖" (design intent)
+* 設定尺寸 (dimensions) 與約束 (constraints)
+* 自動推理 (automatic inferencing)
+* 繪製精確的零件 (accurate part)
+* 草圖繪製練習
+* 運用與建立平面 (planes)
+* 建立圓角 (fillets) 與倒角 (chamfers)
+* 使用多個 (multiple) 草圖區域 (sketch regions)
+* 繪製基本零件
+* 各種簡單的幾何形狀 (geometric shapes)
+
+</t>
+<t tx="leo.20181108141448.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108141448.2"># Week 6
+
+* 複習week1~week5
+* 學習如何處理網誌error的問題
+* 安裝新版p37
+* leo 不能亂刪任何一個符號!!!! 否則後果不堪設想
+
+</t>
+<t tx="leo.20181108141640.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108141640.2"># Week 7
+
+* 因Github出問題，所以學習架構虛擬網路和複習week1~week6所學
+* 發生原因:網路裝置與資料庫故障
+* 處理方法:各計算機程式、電腦輔助設計與協同產品設計倉儲資料除了近端與 Github 端存放外, 還必須同步到:
+
+https://about.gitlab.com/pricing/
+
+https://bitbucket.org/product/pricing以及自建區域網路上的 Fossli SCM 主機
+</t>
+<t tx="leo.20181108141902.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108141902.2"># Week 8
+
+* 何謂雲端?
+* 有一堆伺服放在一起，且具有高彈性
+
+shared pools (可供共享用之眾多伺服器) of configurable computer system resources (可配置的電腦系統資源)
+
+雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少
+* 說明github故障的問題並說明其解決方法</t>
+<t tx="leo.20181108142011.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108142011.2"># Week 9 期中考週
+
+* 自評分數、分期末報告的組別
+* 和組員討論期末報告的主題</t>
 </tnodes>
 </leo_file>
