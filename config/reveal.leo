@@ -21,46 +21,71 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181108140150.1"><vh>各式內容引用範例</vh>
-<v t="leo.20181108140150.2" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20181108140150.3"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20181108140150.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20181108140150.5"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20181108140150.6" a="E"><vh>導入影片</vh>
-<v t="leo.20181108140150.7"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
-<v t="leo.20180827201621.11" a="E"><vh>Week 1</vh>
+<v t="leo.20180827201621.11" a="E"><vh>Week 10</vh>
 <v t="leo.20180827201621.12"><vh>內容</vh></v>
 </v>
-<v t="leo.20181108135549.1" a="E"><vh>Week 2</vh>
-<v t="leo.20181108135549.2"><vh>內容</vh></v>
+<v t="leo.20190613200213.1" a="E"><vh>Week 11~12</vh>
+<v t="leo.20190613200213.2" a="E"><vh>w11</vh>
+<v t="leo.20190613200213.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20181108140155.1" a="E"><vh>Week 3</vh>
-<v t="leo.20181108140155.2"><vh>內容</vh></v>
+<v t="leo.20190613200213.4" a="E"><vh>w12</vh>
+<v t="leo.20190613200213.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20181108140255.1" a="E"><vh>Week 4</vh>
-<v t="leo.20181108140255.2"><vh>內容</vh></v>
+<v t="leo.20190613202928.1" a="E"><vh>手動對手動</vh>
+<v t="leo.20190613202928.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20181108140720.1" a="E"><vh>Week 5</vh>
-<v t="leo.20181108140720.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20181108141448.1" a="E"><vh>Week 6</vh>
-<v t="leo.20181108141448.2"><vh>內容</vh></v>
+<v t="leo.20190613202123.1" a="E"><vh>Week 13</vh>
+<v t="leo.20190613202123.2" a="E"><vh>w13</vh>
+<v t="leo.20190613202123.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20181108141640.1" a="E"><vh>Week 7</vh>
-<v t="leo.20181108141640.2"><vh>內容</vh></v>
+<v t="leo.20190613202508.1" a="E"><vh>送球</vh>
+<v t="leo.20190613202508.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20181108141902.1" a="E"><vh>Week 8</vh>
-<v t="leo.20181108141902.2"><vh>內容</vh></v>
+<v t="leo.20190613202123.4" a="E"><vh>手動對自動</vh>
+<v t="leo.20190613202123.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20181108142011.1" a="E"><vh>Week 9</vh>
-<v t="leo.20181108142011.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190613203113.1" a="E"><vh>Week 14</vh>
+<v t="leo.20190613203113.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190613203254.1" a="E"><vh>Week 15</vh>
+<v t="leo.20190613203254.2" a="E"><vh>w15</vh>
+<v t="leo.20190613203254.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190613203254.6" a="E"><vh>自動對自動</vh>
+<v t="leo.20190613203254.7"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190613203508.1" a="E"><vh>Week 16</vh>
+<v t="leo.20190613203508.2" a="E"><vh>w16</vh>
+<v t="leo.20190613203508.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190613203508.4" a="E"><vh>手動對手動最終版</vh>
+<v t="leo.20190613203508.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190613203736.1" a="E"><vh>自評</vh>
+<v t="leo.20190613203736.2" a="E"><vh>成績</vh>
+<v t="leo.20190613203736.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190613203736.4" a="E"><vh>期末報告</vh>
+<v t="leo.20190613203736.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108140150.1"><vh>各式內容引用範例</vh>
+<v t="leo.20181108140150.2"><vh>導入數學符號與方程式</vh>
+<v t="leo.20181108140150.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20181108140150.4"><vh>導入縮排程式碼</vh>
+<v t="leo.20181108140150.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20181108140150.6"><vh>導入影片</vh>
+<v t="leo.20181108140150.7"><vh>iframe 導入影片</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -148,15 +173,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 40623225網際簡報
+<t tx="leo.20180827201621.10">## 2019 協同產品設計實習
 
-### 虎科大機械設計工程系
+### 40623225 網際簡報
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623225](https://github.com/mdecadp2018/site-40623225)
 &lt;/small&gt;
 
-[2018 Fall 40623225網誌](./../blog/index.html)
+[2019 協同產品設計實習 40623225網站](https://github.com/mdecadp2018/site-40623225)
 
 
 </t>
@@ -169,11 +194,15 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12">## Week 1
+<t tx="leo.20180827201621.12">## Week 10
 
-* 建立一個新倉儲(學號.github.io),從https://github.com/mdecourse 中clone 2018fall,在將自己的github.io clone下來,將2018fall資料夾複製裡面的檔案,除了.git和README.me都貼到自己的資料夾,再利用git add . , git commit -m "名稱" , git push完成推送的動作。
+* 如何利用GitExtensions進行各版次內容的checkout
 
-* 開啟python wsgi.py,進入近端(localhost:8443),更改標題名稱40623225 
+* 先在mde.tw的網際內容管理裡面找到GitExtensions的標籤，之後對GitExtensions.7z進行安裝，並且加壓縮在自己的隨身碟裡。之後對Kdiff3做修改。
+
+* GitExtensions是一個可以回到任何時間點的程式，可以查看任何時間的推送資料，萬一有衝突時，也可利用GitExtensions回到之前的版本。
+
+* [40623225weekly progress](https://mdecadp2018.github.io/site-40623225/content/Week10-18.html)
 
 </t>
 <t tx="leo.20180827201621.2"></t>
@@ -266,25 +295,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 @others
     &lt;/script&gt;
 &lt;/section&gt;
-
-
 						
-</t>
-<t tx="leo.20181108135549.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108135549.2">## Week 2
-
-* 進到mde.tw &gt; i &gt;week2&gt;領取個人倉儲 (在mdecadp2018下的site-40623225)
-* 在site-40623225的 settings &gt; Branches &gt; 將branches改為gh-pages
-* 開始試著練習OnShape ，更新網站內容
-
 </t>
 <t tx="leo.20181108140150.1">&lt;section&gt;
 @others
@@ -363,7 +374,118 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20181108140155.1">&lt;section data-markdown&gt;
+<t tx="leo.20190613200213.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190613200213.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613200213.3">## Week 11~12
+
+* 這週和組員共同製作v-rep手足球，目前足球員可以手動操作，和可以操作桿子左右移動而且不會超出框外，因為有個固定點，雖然現在不會超出，可是下方的距離還是會一直增加。
+
+</t>
+<t tx="leo.20190613200213.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613200213.5">## 如何限制手足球桿子的移動距離
+
+* 打開每一根桿子的程式碼，將下列程式碼輸入進去
+
+&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g4/images/40623225-w12-1.png"width="500" high="450"&gt;
+
+</t>
+<t tx="leo.20190613202123.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190613202123.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613202123.3">## W13
+
+* 自動擊球程式完成
+
+* 手動對自動模擬完成
+
+* 討論如何送球，最後決定利用螺旋方式送球
+</t>
+<t tx="leo.20190613202123.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613202123.5">## 手動對自動
+
+&lt;iframe width="702" height="377" src="https://www.youtube.com/embed/TdG4Tv6yk_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190613202508.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613202508.2">## 送球機構雛形
+
+&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g4/images/%E9%80%81%E7%90%83%E6%A9%9F%E6%A7%8B-1.png" width="500" high="450"&gt;
+
+</t>
+<t tx="leo.20190613202928.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190613202928.2">## 手動對手動
+
+&lt;iframe width="702" height="377" src="https://www.youtube.com/embed/rcA3xKkyCaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190613203113.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -372,120 +494,134 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108140155.2">## Week 3
+<t tx="leo.20190613203113.2">## Week 14
 
-* 中秋節放假!!
+* 在模擬自動對自動的時候，出了點問題，球員的偵測距離不正確，踢球的角度也不對。
+
+&lt;iframe width="500" height="300" src="https://www.youtube.com/embed/R4wgR2oUeLU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20181108140255.1">&lt;section data-markdown&gt;
+<t tx="leo.20190613203254.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190613203254.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181108140255.2">## Week 4 Onshape 基本用法
+<t tx="leo.20190613203254.3">## W15
 
-* extrude--拉伸
-* revolve--旋轉
-* symmetric--對稱
-* pattern--陣列
-* loft--斷面混層
-* sweep--掃掠
-* shell--薄殼
+* 自動對自動模擬完成
 
+* 遇到的問題:左邊的只能向前踢，右邊的也只能向前踢，兩邊都沒辦法往自己的後面踢球
+
+* 送球機構完成
 </t>
-<t tx="leo.20181108140720.1">&lt;section data-markdown&gt;
+<t tx="leo.20190613203254.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181108140720.2">### Week 5 Onshape 繪製
+<t tx="leo.20190613203254.7">## 自動對自動
 
-* 簡介"設計意圖" (design intent)
-* 設定尺寸 (dimensions) 與約束 (constraints)
-* 自動推理 (automatic inferencing)
-* 繪製精確的零件 (accurate part)
-* 草圖繪製練習
-* 運用與建立平面 (planes)
-* 建立圓角 (fillets) 與倒角 (chamfers)
-* 使用多個 (multiple) 草圖區域 (sketch regions)
-* 繪製基本零件
-* 各種簡單的幾何形狀 (geometric shapes)
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/Ylf-JeX4atg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20181108141448.1">&lt;section data-markdown&gt;
+<t tx="leo.20190613203508.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190613203508.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181108141448.2">## Week 6
+<t tx="leo.20190613203508.3">## W16
 
-* 複習week1~week5
-* 學習如何處理網誌error的問題
-* 安裝新版p37
-* leo 不能亂刪任何一個符號!!!! 否則後果不堪設想
-
+* 這週開始將分配到的工作-手足球手動對手動變得更好，送球機構也已經加進去了，程式變得更簡單明瞭，也加了攝影機讓操作者更清楚的看到目前球的位子，而這週是備考週，所以一邊準備十七週要的個人倉儲和期末影片，一邊將自己的網站和分組網站做修改。
 </t>
-<t tx="leo.20181108141640.1">&lt;section data-markdown&gt;
+<t tx="leo.20190613203508.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181108141640.2">## Week 7
+<t tx="leo.20190613203508.5">## 手動對手動最終版
 
-* 因Github出問題，所以學習架構虛擬網路和複習week1~week6所學
-* 發生原因:網路裝置與資料庫故障
-* 處理方法:各計算機程式、電腦輔助設計與協同產品設計倉儲資料除了近端與 Github 端存放外, 還必須同步到:
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/ltAH5UlB6ds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-https://about.gitlab.com/pricing/
-
-https://bitbucket.org/product/pricing以及自建區域網路上的 Fossli SCM 主機
 </t>
-<t tx="leo.20181108141902.1">&lt;section data-markdown&gt;
+<t tx="leo.20190613203736.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190613203736.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181108141902.2">## Week 8
+<t tx="leo.20190613203736.3">## 自評成績
 
-* 何謂雲端?
-* 有一堆伺服放在一起，且具有高彈性
+* 學員出席 (20%): 20
 
-shared pools (可供共享用之眾多伺服器) of configurable computer system resources (可配置的電腦系統資源)
+* Github 倉儲管理  (20%): 15
 
-雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少
-* 說明github故障的問題並說明其解決方法</t>
-<t tx="leo.20181108142011.1">&lt;section data-markdown&gt;
+* Onshape 協同操作 (20%): 0
+
+* V-rep 模擬 (20%): 20
+
+* 程式開發 (20%): 15
+
+* 自評分數: 70
+</t>
+<t tx="leo.20190613203736.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181108142011.2">## Week 9 期中考週
+<t tx="leo.20190613203736.5">## 期末報告
 
-* 自評分數、分期末報告的組別
-* 和組員討論期末報告的主題</t>
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/Apets-VVzRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
